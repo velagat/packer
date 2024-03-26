@@ -1,7 +1,0 @@
-{
-  "esxi_host": "10.3.161.79",
-  "esxi_datastore": "datastore1",
-  "esxi_username": "root",
-  "esxi_password": "{{ env `VMWARE_PASS` }}",
-  "suffix": "{{ env `suffix` }}"
-}
